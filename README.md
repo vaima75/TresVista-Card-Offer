@@ -23,7 +23,7 @@ df, X-squared, p-value where,
 
 #### Confusion Matrix Statistics
 
-For details and definition refer [here](https://vaima75.github.io/TresVista-Card-Offer/ConfMat)
+For details and definition refer [here](https://github.com/vaima75/TresVista-Card-Offer/blob/master/ConfMat.md)
 
 | Parameters | RandomForest | BAGGING | GBM | C50 | logisticReg | Naive bayes |
 |:------------- |:------------- |:------------- |:------------- |:------------- |:------------- |:------------- |
